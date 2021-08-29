@@ -1,4 +1,4 @@
 - name: Projects
   dropdown:
-    - name: ReAção
-      link: /reacao/
+    - name: Undergraduate Researchs
+      link: /undergraduate-research/
