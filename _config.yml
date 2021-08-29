@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+remote_theme: chrisrhymes/bulma-clean-theme
 
 github:
   is_project_page: false
