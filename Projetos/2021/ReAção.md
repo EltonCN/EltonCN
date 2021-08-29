@@ -1,5 +1,8 @@
 ---
+
 permalink: /reacao/
+menubar: undergraduate_research
+
 ---
 
 # ReAção
