@@ -11,15 +11,10 @@ ReDrawing Campinas is a group of researchers with experience in areas such as Ar
 We carried out a two-part project for the OpenCV AI Competition 2021, using th OAK-D camera:
 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReDrawing)
-
 [![](https://img.shields.io/badge/Webpage-%20-blue)](https://sites.google.com/view/redrawing-campinas)
-
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/redrawing.campinas/)
-
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/redrawing.campinas)
-
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/re-drawing-campinas)
-
 [![](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/ReDrawing.Campinas)
 
 
@@ -29,7 +24,6 @@ We carried out a two-part project for the OpenCV AI Competition 2021, using th O
 Python package provinding tools for artistic interactive applications using AI
 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReDrawing/redrawing)
-
 [![](https://img.shields.io/badge/PyPi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/redrawing/)
 
 ## DiscRabisco

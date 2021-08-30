@@ -1,6 +1,4 @@
----
-title: EltonCN
----
+# EltonCN
 
 ### Hi!
 
