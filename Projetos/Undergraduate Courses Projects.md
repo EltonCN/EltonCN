@@ -1,7 +1,7 @@
 ---
 
 title: Undergraduate Courses Projects
-menubar: undegraduate-courses-projects
+menubar: undergraduate_courses_projects
 permalink: /undergraduate-courses-projects/
 
 ---
