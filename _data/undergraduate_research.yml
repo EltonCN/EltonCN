@@ -1,6 +1,7 @@
 - label: Undegraduate Research Projects
-  link: /undergraduate-research/
   items:
+    - name: Info
+      link: /undergraduate-research/
     - name: ReAção
       link: /reacao/
     - name: ReDrawing Campinas
