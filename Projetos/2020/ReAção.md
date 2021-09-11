@@ -23,7 +23,7 @@ Made with the support of "Conselho Nacional de Desenvolvimento Científico e Tec
 
 # Publications
 
-- Análise automática de reações emocionais aplicada anarrativas audiovisuais, EltonCN, Artemis Moroni - JICC 2021 [![](https://img.shields.io/badge/PDF-%20-red)](https://eltoncn.github.io/EltonCN/Publica%C3%A7%C3%B5es/2021/An%C3%A1lise%20autom%C3%A1tica%20de%20rea%C3%A7%C3%B5es%20emocionais%20aplicada%20a%20narrativas%20audiovisuais.pdf)
+- Análise automática de reações emocionais aplicada anarrativas audiovisuais. EltonCN, Artemis Moroni - JICC 2021 [![](https://img.shields.io/badge/PDF-%20-red)](https://eltoncn.github.io/EltonCN/Publica%C3%A7%C3%B5es/2021/An%C3%A1lise%20autom%C3%A1tica%20de%20rea%C3%A7%C3%B5es%20emocionais%20aplicada%20a%20narrativas%20audiovisuais.pdf)
 
 ---
 

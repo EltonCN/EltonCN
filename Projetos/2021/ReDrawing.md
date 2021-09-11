@@ -26,6 +26,12 @@ Python package provinding tools for artistic interactive applications using AI
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReDrawing/redrawing)
 [![](https://img.shields.io/badge/PyPi-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/project/redrawing/)
 
+### Java/Processing interface
+
+Interface libraries for receiveng messages from the redrawing python package in a Java ou Processing aplication.
+
+[![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ReDrawing/redrawing_java)
+
 ## DiscRabisco
 
 DiscRabisco is an interactive
@@ -56,3 +62,4 @@ Made with the support of "Conselho Nacional de Desenvolvimento Científico e Tec
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Processing](https://img.shields.io/badge/Processing-006699?style=for-the-badge&logo=processingfoundation&logoColor=white)
+![Java](	https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
