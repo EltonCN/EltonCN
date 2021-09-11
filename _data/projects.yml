@@ -1,0 +1,21 @@
+- label: Projects
+  items:
+    - name: Undergraduate Research Projects
+      link: /undergraduate-research/
+      items:
+      - name: ReAção
+        link: /reacao/
+      - name: ReDrawing Campinas
+        link: /redrawing/
+    - name: Undergraduate Couses Projects
+      link: /undergraduate-courses-projects/
+      items:
+      - name: Generative art with Markov chains
+        link: /markov-art/
+      - name: Hero Quest
+        link: /heroquest/
+    - name: Other Projects
+      link: /other-projects/
+      items:
+        - name: Athenas
+          link: /athenas/

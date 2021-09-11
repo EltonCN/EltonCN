@@ -2,7 +2,7 @@
 
 title: ReAção
 permalink: /reacao/
-menubar: undergraduate_research
+menubar: projects
 
 ---
 

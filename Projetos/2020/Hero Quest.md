@@ -2,7 +2,7 @@
 
 title: Hero Quest
 permalink: /heroquest/
-menubar: undergraduate_courses_projects
+menubar: projects
 
 ---
 

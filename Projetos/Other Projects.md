@@ -1,7 +1,7 @@
 ---
 
 title: Other projects
-menubar: other_projects
+menubar: projects
 permalink: /other-projects/
 
 ---

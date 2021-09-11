@@ -1,7 +1,7 @@
 ---
 
 title: Generative art with Markov chains
-menubar: undergraduate_courses_projects
+menubar: projects
 permalink: /markov-art/
 
 ---

@@ -2,7 +2,7 @@
 
 title: ReDrawing Campinas
 permalink: /redrawing/
-menubar: undergraduate_research
+menubar: projects
 
 ---
 

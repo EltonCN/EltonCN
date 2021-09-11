@@ -1,7 +1,7 @@
 ---
 
 title: Undergraduate Research Projects
-menubar: undergraduate_research
+menubar: projects
 permalink: /undergraduate-research/
 
 ---

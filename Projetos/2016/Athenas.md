@@ -2,7 +2,7 @@
 
 title: Athenas
 permalink: /athenas/
-menubar: other_projects
+menubar: projects
 gallery: athenas_gallery
 
 ---
