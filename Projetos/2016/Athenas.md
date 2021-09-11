@@ -3,30 +3,13 @@
 title: Athenas
 permalink: /athenas/
 menubar: other_projects
+gallery: athenas_gallery
 
 ---
 
 Robotics project I participated in high school for the [Brazilian Robotics Olympiad (OBR)](http://www.obr.org.br/). It's a Arduino based rescue robot, using the Zumo robotic plataform and with 3D printed parts.
 
 
-
-    ![Sem garra](imgs/Sem%20garra.jpg)
-_Robot without arm - 2018_
-
-![Rampa](imgs/Rampa%20impressa.jpg)
-_Ramp to overcome obstacles_
-
-![Garra isopor](imgs/Garra%20isopor%20-%202017.png)
-_Styrofoam arm_
-
-![Garra Impressa](imgs/Garra%20impressa%201%20-%202017.jpg)
-_First printed arm_
-
-![Garra 2018](imgs/Garra%202018.jpg)
-_Second Ball Catcher Prototype_
-
-![Premiação 2018](imgs/Premiação%202018.jpg)
-_OBR 2018 regional award_
 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoboticaIFSPSuzano/Athenas)
 

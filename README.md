@@ -16,8 +16,6 @@ As a student, I'm still not sure, but I'm interested in:
 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EltonCN) 
 [![](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/EltonCN)
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elton_cn/)
 
-### Teste
-
-![](Projetos/2016/imgs/Figura%201%20–%20Foto%20do%20sensor%20posicionado%20entre%20as%20esteiras.png)
+<!--[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/elton_cn/)
+-->
