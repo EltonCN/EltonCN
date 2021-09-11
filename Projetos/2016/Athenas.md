@@ -13,9 +13,11 @@ Robotics project I participated in high school for the [Brazilian Robotics Olymp
 
 Participate from the end of 2016 until the end of 2018. In 2017 I carried out as my scientific technological and industrial initiation project, "Aplicando PID no Controle de Robô Seguidor de Linha Desenvolvido com Plataforma Livre", and in 2018 as my course completion project , "Adaptação do projeto físico e a programação da plataforma Zumo para participação em competições de robótica".
 
-It changed his name at times. In 2016 it was called "ArduinoBo", in 2017 "Sigma0", and in 2018 "Athenas"
+It changed his name at times. In 2016 it was called "ArduinoBo", in 2017 "Sigma0", and in 2018 "Athenas". It was part of the IFSP Suzano robotics laboratory.
 
 [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RoboticaIFSPSuzano/Athenas)
+
+IFSP Suzano robotics laboratory: [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/robotica_ifspsuzano/)
 
 # Contributors
 
