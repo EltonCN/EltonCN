@@ -29,7 +29,7 @@ IFSP Suzano robotics laboratory: [![](https://img.shields.io/badge/Instagram-E44
 - Cláudio Sasaki Calanca (2017)
 - [Gabriel Freitas Yamamoto](https://github.com/gabrielyoto) (2017)
 - Adriano de Oliveira Lacerda (2018)
-- Ana Luiza Coura (2018) 
+- [Ana Luiza Coura](https://github.com/A2Nlu) (2018) 
 
 Made with the support of "Conselho Nacional de Desenvolvimento Científico e Tecnológico" (CNPq) of Brazil
 
