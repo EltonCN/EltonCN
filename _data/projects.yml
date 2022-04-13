@@ -10,6 +10,12 @@
     - name: Undergraduate Couses Projects
       link: /undergraduate-courses-projects/
       items:
+      - name: Evolvepy
+        link: /evolvepy/
+      - name: Space Pioneers
+        link: /evolvepy/
+      - name: BReATH
+        link: /breath/
       - name: Generative art with Markov chains
         link: /markov-art/
       - name: Hero Quest
@@ -19,5 +25,7 @@
     - name: Other Projects
       link: /other-projects/
       items:
+        #- name: GER
+        #  link: /GER/
         - name: Athenas
           link: /athenas/
