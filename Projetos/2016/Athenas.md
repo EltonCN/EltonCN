@@ -48,16 +48,15 @@ Made with the support of "Conselho Nacional de Desenvolvimento Científico e Tec
 
 # Publications
 
-- Robô para competições de robótica com controlador PD e garra de isopor.EltonCN, YAMAMOTO, G. F., CALANCA, C. S., SILVA, V. L. - Mostra Nacional de Robótica, Mostra Virtual 2017 (MNR 2017). 
-[![](https://img.shields.io/badge/PDF-%20-red)](https://eltoncn.github.io/EltonCN/Publicações/2017/Robô%20para%20competições%20de%20robótica%20com%20controlador%20PD%20e%20garra%20de%20isopor.pdf)
-
-- Método para detecção de Rampa e vítimas no desafio proposto pela Olimpíada Brasileira de Robótica. EltonCN, LACERDA, A. O., SILVA, V. L, MASAMORI, K. - Mostra Nacional de Robótica, Mostra Virtual 2018 (MNR 2018). [![](https://img.shields.io/badge/PDF-%20-red)](https://eltoncn.github.io/EltonCN/Publicações/2018/Método%20para%20detecção%20de%20rampa%20e%20vítimas%20no%20desafio%20proposto%20pela%20Olimpíada%20Brasileira%20de%20Robótica.pdf)
-  
-- Método para detecção de Rampa e vítimas no desafio proposto pela Olimpíada Brasileira de Robótica. EltonCN, SILVA, V. L., MASAMORI, K. - Mostra Nacional de Robótica, Mostra Virtual 2019 (MNR 2019). [![](https://img.shields.io/badge/PDF-%20-red)](https://eltoncn.github.io/EltonCN/Publicações/2019/Detecção%20de%20objetos%20em%20ambiente%20controlado%20por%20meio%20de%20mapeamento,%20utilizando%20uma%20plataforma%20robótica%20Arduino.pdf)
+- Detecção de objetos em ambiente controlado por meio de mapeamento, utilizando plataforma robótica Arduino. EltonCN, SILVA, V. L., MASAMORI, K. - Mostra Nacional de Robótica, Mostra Virtual 2019 (MNR 2019). [![](https://img.shields.io/badge/PDF-%20-red)](https://eltoncn.github.io/EltonCN/Publicações/2019/Detecção%20de%20objetos%20em%20ambiente%20controlado%20por%20meio%20de%20mapeamento,%20utilizando%20uma%20plataforma%20robótica%20Arduino.pdf)
 
 - Adaptação do projeto físico e a programação da plataforma
 Zumo para participação em competições de robótica. EltonCN, SILVA, V. L., KASHIWAGI, M., SOUZA, R. A. - Trabalho de conclusão de curso (Técnico), IFSP Suzano, 2018. [![](https://img.shields.io/badge/PDF-%20-red)](https://eltoncn.github.io/EltonCN/Publicações/2018/Adaptação%20do%20projeto%20físico%20e%20a%20programação%20da%20plataforma.pdf)
 
+- Método para detecção de Rampa e vítimas no desafio proposto pela Olimpíada Brasileira de Robótica. EltonCN, LACERDA, A. O., SILVA, V. L, MASAMORI, K. - Mostra Nacional de Robótica, Mostra Virtual 2018 (MNR 2018). [![](https://img.shields.io/badge/PDF-%20-red)](https://eltoncn.github.io/EltonCN/Publicações/2018/Método%20para%20detecção%20de%20rampa%20e%20vítimas%20no%20desafio%20proposto%20pela%20Olimpíada%20Brasileira%20de%20Robótica.pdf)
+
+- Robô para competições de robótica com controlador PD e garra de isopor.EltonCN, YAMAMOTO, G. F., CALANCA, C. S., SILVA, V. L. - Mostra Nacional de Robótica, Mostra Virtual 2017 (MNR 2017). 
+[![](https://img.shields.io/badge/PDF-%20-red)](https://eltoncn.github.io/EltonCN/Publicações/2017/Robô%20para%20competições%20de%20robótica%20com%20controlador%20PD%20e%20garra%20de%20isopor.pdf)
 
 ---
 
