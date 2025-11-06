@@ -2,11 +2,12 @@
 
 ### Hi!
 
-I'm a computer engineering undergraduate student at Unicamp.
+I'm a computer engineering msc student at Unicamp.
 
 ## ⭐ Interests
 
-As a student, I'm still not sure, but I'm interested in:
+I'm interested in:
+- World Models
 - Computer Vision
 - Robotics
 - Artificial Intelligence
